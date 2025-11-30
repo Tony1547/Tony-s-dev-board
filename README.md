@@ -1,5 +1,5 @@
 # Tony's-dev-board
-Following the dev-board tutorial & adding an awesome case
+Following the dev-board tutorial & adding an awesome case (that can be put on a keychain)
 
 <img width="941" height="563" alt="image" src="https://github.com/user-attachments/assets/f803f606-bc84-45d9-b62e-3672e52ed7de" />
 
