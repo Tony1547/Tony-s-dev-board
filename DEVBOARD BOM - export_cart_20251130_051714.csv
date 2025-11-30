@@ -1,0 +1,19 @@
+Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link
+1,C165948,TYPE-C-31-M-12,Korean Hroparts Elec,SMD,,"1 16P Type-C SMD USB, DVI, HDMI Connector Assemblies RoHS",yes,5,5,5,0.1752,0.88,https://www.lcsc.com/product-detail/C165948.html
+2,C48579737,1812X7R105K251NT,AIDE CAPACITOR,1812,,250V 1uF X7R ±10% 1812 Ceramic Capacitors RoHS,yes,5,5,5,0.1084,0.54,https://www.lcsc.com/product-detail/C48579737.html
+3,C42431804,PH2.54-1X20P-H25,JXTCONN,"Through Hole,P=2.54mm",,"20P 1x20P Gold Brass -40℃~+105℃ Pin Header Black 2.54mm 2.5mm 6mm 3mm 3A 1 Through Hole Through Hole,P=2.54mm Headers, Male Pins RoHS",yes,5,5,5,0.0342,0.17,https://www.lcsc.com/product-detail/C42431804.html
+4,C49326814,1210X7R106K350NT,AIDE CAPACITOR,1210,,35V 10uF X7R ±10% 1210 Ceramic Capacitors RoHS,yes,5,5,5,0.1711,0.86,https://www.lcsc.com/product-detail/C49326814.html
+5,C48579666,1206C0G330J102NT,AIDE CAPACITOR,1206,,1kV 33pF C0G ±5% 1206 Ceramic Capacitors RoHS,yes,50,50,50,0.013,0.65,https://www.lcsc.com/product-detail/C48579666.html
+6,C20546,NCP1117STAT3G,onsemi,SOT-223,,"73dB@(120Hz) Positive Adjustable 1.25V~18.8V SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",yes,5,5,5,0.2958,1.48,https://www.lcsc.com/product-detail/C20546.html
+7,C49326811,1210X7R104K631NT,AIDE CAPACITOR,1210,,630V 100nF X7R ±10% 1210 Ceramic Capacitors RoHS,yes,20,10,10,0.0705,1.41,https://www.lcsc.com/product-detail/C49326811.html
+8,C17902,1206W4F1002T5E,UNI-ROYAL,1206,,10kΩ 250mW 200V ±100ppm/℃ Thick Film Resistor ±1% 1206 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0031,0.31,https://www.lcsc.com/product-detail/C17902.html
+9,C52016391,HX PH254-01-03-Z-L11.5 pcb pin header,hanxia,"Through Hole,P=2.54mm",,"3P 1x3P Gold Brass -40℃~+105℃ Pin Header 2.54mm 2.5mm 6mm 1kV 3mm 3A 1 Through Hole Through Hole,P=2.54mm Headers, Male Pins RoHS",yes,20,20,20,0.0046,0.09,https://www.lcsc.com/product-detail/C52016391.html
+10,C21190,0603WAF1001T5E,UNI-ROYAL,603,,100mW 1kΩ 75V ±100ppm/℃ Thick Film Resistor ±1% 0603 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.001,0.1,https://www.lcsc.com/product-detail/C21190.html
+11,C7450623,GT-TC060A-H025-L1S,G-Switch,"SMD,6x3mm",,"Without Bracket 6.05mm 12V 3.5mm Rectangular Button No SPST 50mA SMD,6x3mm Tactile Switches RoHS",yes,5,5,5,0.0883,0.44,https://www.lcsc.com/product-detail/C7450623.html
+12,C2040,RP2040,Raspberry Pi,LQFN-56(7x7),,133MHz 30 LQFN-56(7x7) Microcontrollers RoHS,yes,1,1,1,0.9482,0.95,https://www.lcsc.com/product-detail/C2040.html
+13,C2907509,FRC1206J512 TS,FOJAN,1206,,250mW 5.1kΩ 200V ±100ppm/℃ Thick Film Resistor ±5% 1206 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.002,0.2,https://www.lcsc.com/product-detail/C2907509.html
+14,C9002,X322512MSB4SI,YXC Crystal Oscillators,SMD3225-4P,,Crystal Oscillator 20pF SMD3225-4P Crystals RoHS,yes,10,10,10,0.0669,0.67,https://www.lcsc.com/product-detail/C9002.html
+15,C97521,W25Q128JVSIQ,Winbond,SOIC-8-208mil,,128Mbit 2.7V~3.6V 133MHz SPI SOIC-8-208mil Memory (ICs) RoHS,yes,1,1,1,1.8042,1.8,https://www.lcsc.com/product-detail/C97521.html
+16,C2933656,FRC1206F27R0TS,FOJAN,1206,,250mW 27Ω 200V ±100ppm/℃ Thick Film Resistor ±1% 1206 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0028,0.28,https://www.lcsc.com/product-detail/C2933656.html
+17,,PCB,,,,main DEVBOARD PCB,,5,,,3.616,18.08,https://github.com/Tony1547/Tony-s-dev-board
+18,,3D-Printed Parts,,,,Parts to cover up PCB,,,,,,,https://cad.onshape.com/documents/c5034cab5a6af16967bc6f77/w/0904c445d2f2abc194a185dd/e/55b6160e95263006e3b240b2

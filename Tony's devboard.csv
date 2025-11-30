@@ -1,0 +1,17 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C10,C9";"C_0201_0603Metric_Pad0.64x0.40mm_HandSolder";2;"1uf";;;
+2;"J4,J3";"Molex_SL_171971-0020_1x20_P2.54mm_Vertical";2;"Conn_01x20";;;
+3;"C14,C13";"C_0201_0603Metric_Pad0.64x0.40mm_HandSolder";2;"10uf";;;
+4;"C15,C16";"C_0201_0603Metric_Pad0.64x0.40mm_HandSolder";2;"33pF";;;
+5;"U2";"SOT-223-3_TabPin2";1;"NCP1117-3.3_SOT223";;;
+6;"C12,C3,C4,C8,C5,C1,C6,C17,C2,C11,C7";"C_0201_0603Metric_Pad0.64x0.40mm_HandSolder";11;"0.1uf";;;
+7;"R3,R4";"R_0201_0603Metric_Pad0.64x0.40mm_HandSolder";2;"27";;;
+8;"J1";"USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal";1;"USB_C_Receptacle_USB2.0_14P";;;
+9;"R7";"R_0201_0603Metric_Pad0.64x0.40mm_HandSolder";1;"10k";;;
+10;"J2";"PinHeader_1x03_P2.54mm_Vertical";1;"Conn_01x03";;;
+11;"R6,R5";"R_0201_0603Metric_Pad0.64x0.40mm_HandSolder";2;"1k";;;
+12;"SW1";"SW_PUSH_1P1T_6x3.5mm_H5.0_APEM_MJTP1250";1;"SW_Push";;;
+13;"U1";"QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm";1;"RP2040";;;
+14;"R2,R1";"R_0201_0603Metric_Pad0.64x0.40mm_HandSolder";2;"5.1k";;;
+15;"Y1";"Crystal_SMD_0603-4Pin_6.0x3.5mm_HandSoldering";1;"Crystal_GND24";;;
+16;"U3";"SOIC-8_5.3x5.3mm_P1.27mm";1;"W25Q128JVS";;;
