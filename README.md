@@ -10,6 +10,6 @@ Following the dev-board tutorial & adding an awesome case (that can be put on a 
 <img width="808" height="350" alt="image" src="https://github.com/user-attachments/assets/4f29dce6-6e6f-4750-8f69-b8c67c202337" />
 
 
-CAD: https://cad.onshape.com/documents/c5034cab5a6af16967bc6f77/w/0904c445d2f2abc194a185dd/e/55b6160e95263006e3b240b2
+CAD: https://cad.onshape.com/documents/c5034cab5a6af16967bc6f77/w/0904c445d2f2abc194a185dd/e/55b6160e95263006e3b240b2 (also in the files)
 
-BOM: https://docs.google.com/spreadsheets/d/1fPphZmWIDkRLiHGIMIhjy6UCU6EgHhpaO0yYP-10utQ/edit?gid=1931436732#gid=1931436732
+BOM: https://docs.google.com/spreadsheets/d/1fPphZmWIDkRLiHGIMIhjy6UCU6EgHhpaO0yYP-10utQ/edit?gid=1931436732#gid=1931436732 (also in the files) 
